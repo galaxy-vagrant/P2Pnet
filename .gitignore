@@ -1,0 +1,21 @@
+
+
+# 忽略runs目录及其所有子目录和文件
+runs/
+pre_result/
+weights/
+ckpt/
+
+
+
+# 忽略临时文件
+*.tmp
+
+
+pre_gd_cnt.txt
+crowd_datasets/SHHA/test.list
+crowd_datasets/SHHA/train.list
+crowd_datasets/SHHA/val_real_test/
+crowd_datasets/SHHA/train_val_test/
+crowd_datasets/SHHA/train/
+crowd_datasets/SHHA/test/
